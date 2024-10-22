@@ -10,3 +10,7 @@ Analyzing this type of data is an essential task for businesses because it can l
 Hence, your task will be to build the tools necessary to analyze many different users’ website journeys. You must think carefully about what is needed and how it can be achieved.
 
 The project focuses more on building all the right tools and functions in Python to generate helpful metrics. At the same time, you should carefully examine these metrics and obtain beneficial insights.
+
+
+Project files
+You’re provided with a ‘user_journey_raw.csv’ file. It includes data about the journeys of many users, with their user and session ID columns, the plan they purchased (Monthly, Quarterly, or Annual), and a user journey string for each session—a string of all the pages they visited during the session, in order and separated by dashes (-). For instance, Homepage-Pricing-Courses is a string indicating that this user first visited the Homepage, then went to Pricing before finally landing on the Courses page. The data provided for this User Journey Analysis in Python project has been cleaned, and the users’ privacy has been protected
